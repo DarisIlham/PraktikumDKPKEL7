@@ -12,7 +12,7 @@ public:
 
     Produk(string n, int h, int s) : nama(n), harga(h), stok(s) {}
 };
-
+// commit syafikbarda
 class kasir {
 private:
     vector<Produk> produk;
